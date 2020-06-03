@@ -1,4 +1,4 @@
-# ssr-test-app
+# nuxt-ssr-test-app
 
 > My grand Nuxt.js project
 

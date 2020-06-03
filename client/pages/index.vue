@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        ssr-test-app
+        nuxt-ssr-test-app
       </h1>
       <h2 class="subtitle">
         My grand Nuxt.js project
